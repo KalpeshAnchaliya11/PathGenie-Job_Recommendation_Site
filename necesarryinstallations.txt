@@ -1,0 +1,10 @@
+Flask
+PyMuPDF
+spacy
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+tensorflow
